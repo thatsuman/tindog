@@ -1,0 +1,12 @@
+{
+  "name": "tindog",
+  "version": "1.0.0",
+  "description": "tindog - Tinder but for dogs",
+  "main": "index.js",
+  "repository": "https://github.com/thatsuman/tindog",
+  "author": "Suman Mondal",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  }
+}
