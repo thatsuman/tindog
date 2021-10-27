@@ -12,4 +12,4 @@ This project is a tutorial of [Dr. Angela Yu](https://www.udemy.com/user/4b4368a
 - Line Awesome for icons
 
 #### :globe_with_meridians: Live Site
-https://thatsuman.github.io/web-dev-projects/TinDog/index.html
+https://tindog.suman.social
