@@ -23,5 +23,5 @@ https://tindog.suman.social
 #### Domain Aliases
 https://tindog-suman.pages.dev/
 
-https://thatsuman.github.io/tindog
+https://thatsuman.github.io/tindog/src/index.html
 
