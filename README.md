@@ -20,7 +20,7 @@ This project is a tutorial of [Dr. Angela Yu](https://www.udemy.com/user/4b4368a
 #### :globe_with_meridians: Live Site
 https://tindog.suman.social
 
-#### Domain Aliases
+#### 🌏 Mirrors
 https://tindog-suman.pages.dev/
 
 https://thatsuman.github.io/tindog/src/index.html
