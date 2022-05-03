@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "tindog - Tinder but for dogs",
   "repository": "https://github.com/thatsuman/tindog",
-  "author": "Suman Mondal",
+  "author": "Suman Mondal<suman.mondal@outlook.in>",
   "license": "MIT",
   "source": "src/index.html",
   "scripts": {
